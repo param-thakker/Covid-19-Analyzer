@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+
+}
+
+.image{
+    width: 750px;
+    margin-top: 50px;
+}
+.heading{
+    color: blue;
+    
+}
+.para1{
+    text-decoration: underline;
+}
+.para2{
+    background-color: aquamarine;
+}
